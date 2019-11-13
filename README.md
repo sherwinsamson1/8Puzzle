@@ -2,8 +2,8 @@ Python program that solves 8 piece puzzles with Iterative deepening depth-first 
 A* with misplaced tile heuristic, and A* with Manhattan Distance heuristic.
 
 Sample input from .txt file: 8, 7, 5, 4, 1, 2, 3, 0, 6
-or /n
-/n  8 7 5
+or 
+  8 7 5
   4 1 2
   3 0 6
 
